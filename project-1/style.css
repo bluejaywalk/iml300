@@ -10,14 +10,14 @@ p {
     text-align: center;
     font-family: monospace;
     font-size: 30px;
-    color: red;
+    color: yellow;
 }
 
 .subtitle {
     text-align: center;
     font-family: monospace;
     font-size: 30px;
-/*    color: red;*/
+    color: red;
 }
 
 .marquee {
