@@ -53,11 +53,11 @@ video {
 
 .center {
     display: block;
-    position: absolute;
-    margin-top: 300px;
-    margin-left: 44%;
+    position: relative;
+    margin-top: 300px;;;
+    margin-left: auto;
     margin-right: auto;
-    width: 140px;
+    width: 440px;
     height: 200px;
 
 }
