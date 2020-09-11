@@ -9,13 +9,44 @@ body{
 p{
     text-align: center; 
     font-family: monospace;
+    font-size: 30px;
     color: yellow;
+}
+
+.subtitle{
+    text-align: center; 
+    font-family: monospace;
+    font-size: 30px;
+    color: darkred;
 }
 
 .marquee{
     font-family:  Amatic SC;
     color: white;
     font-size: 100px;
+}
+.marquee2{
+    font-family: arial;
+    color: red;
+    font-size: 40px;
+}
+video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.viewport-header {
+  position: relative;
+  height: 100vh;
+  text-align: center;
+color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .center{
     display:block;
