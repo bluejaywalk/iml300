@@ -13,6 +13,13 @@ p {
     color: yellow;
 }
 
+h1{
+    font-family: monospace;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+}
+
 .subtitle {
     text-align: center;
     font-family: monospace;
