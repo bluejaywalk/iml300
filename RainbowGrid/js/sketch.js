@@ -28,7 +28,10 @@ function draw() {
         fill(hue2, 255, 255, 60);
       }
       
-      square(i, j, radius);
+      if(keyIsPressed){
+        square(i, j, radius);
+      
+    }
       
     }
   }
